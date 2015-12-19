@@ -156,19 +156,6 @@
 
 
 
-//DB teacher
-//current programs/night job/ceh course, mathematics/physics, B.Ed, h it online...one of these four had another "/"
-//tie up/finish up/finish off your loose ends (do at least the 1st, of the 3 + 1, at least/of course)
-//long path tool, first set of backups, photographs, second backup, pinups, sexy gup ah as soon as you enter:D
-
-//B Pride
-//tribal,>matyr
-
-//include a "save version[s]" (button) option --> current, versions
-//"deet bano" XDD
-//foc sig on front OR back cover
-
-
 //demo #1: loadFile, stats, flip pages, designate as chapter, jump to chapter
 
 //include writing quote of the day
@@ -192,7 +179,7 @@
 //words, total characters, paragraphs, pages, lines, onPage
 
 
-//fix R S
+
 
 //who's working on a more efficient battery for ren en?
 
@@ -200,42 +187,6 @@
 
 //why DOESN'T he have CEH certification? ie. why did he never bother?
 //a couple of freelance projects for him just to get zersys on my res & a letter of rec
-
-
-
-//virt recreation of victim's gui, log of order opened
-
-//once you're in: all outgoing/incoming packets (all info sent/recieved on the WWW), keylogging, directory listings, administrator priviliges (opening files and such), internet browsing history
-//anxiety buster: muffin + smoked paprika + regular (yellow) kraft singles
-//code, umineko
-//misamisa, taot, uts, dbt (if I' wy)
-
-
-//my own projects (ie. coding for myself instead of some explotative dumbass), or op a t c
-
-
-
-//Fandom Follower- anonomously discuss your fandom
-//select/create/add a new fandom group to the list/search
-//browse fanart, view fandom updates, add materials to your local board
-
-
-
-
-
-
-
-
-
-
-//Wilson, IT work exp on resu; afterwards, go to db and teach; what daddy said on the phone
-
-
-//website development/design, mobile app development, hacking
-//pc software development
-
-
-
 
 
 
@@ -386,12 +337,6 @@
 //urgh
 
 
-
-
-
-
-//morning rays (wipes out the hn'2)
-//3 places that have always flh: ir, DB, iacopm
 //instead of saving everything to the master document, you could have an array hold each chapter/loaded document
 
 //"previously opened docs" tracker
