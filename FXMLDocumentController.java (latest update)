@@ -1,11 +1,10 @@
 //browse boxes, word doc load to end error, [tiny character counter for musings/outlines/brainstorming, prewriting, and garbage collection]
 //change it so that it does NOT save on appending (DONE!) OR Appending/appending the contents of a file to the end/loading a file will automatically save this session. Do you want to continue?/Are you sure you want to load a file?
-//make a diagram of how everything actually works in this program (the behind-the-scenes)
 //jump to chapter in page viewing mode, about auto saving in page viewing mode, less messy swing version, jump to page in normal mode, editable in viewing mode?/disable editing, zoom/increase font size and recalculate pages and stats in both modes and adjust page turning accordingly, word doc support, thesaurus, other file menu goodies, autoformat-->garbagecollection and check any attached functions of the insert button before removing it
 //novelist's/writer's/author's personal organizer, two higher font sizes and one lower?
 //xtra edits: add "voice" to the menu bar, second column/box to filetracker, click and drag to rearrange chapters, 1, make "automatically save your session" bold, add an "are you sure you want to turn page viewing mode on?" yesnookcancel dialog box, export printable version-->ready for publishing!/export version to be published
 
-//Beyond Horizons/Obvious Solutions/Morrigan's Freeware
+//Beyond Horizons/Obvious Solutions/GP's Freeware
 //list of software: file too long (free trial/full version/free with ads?/FREE?); Authors Assistant (free trial/full verion/FREE?/Free with ads?), custom medical forms (full service/download a sample/download an example of a completed patient management software (the sample can be usedtested for 30 days/valid for 30 days))
 //be sure to index the website on google
 //create a secure payment portal (ASP.NET?)
@@ -71,7 +70,7 @@
 
 //presenta, pick up cert, change m's login pw
 //recover firefox, article (and figure out why it was deleted), and chrome (in that order)
-//long path tool, pin ups
+
 
 
 //Insert button--> "Append to End" OR Insert inserts normally, and two append to end buttons are added underneath musings and prewriting
@@ -93,13 +92,13 @@
 
 //Help--> tips before you publish
 
-//longpathtool- feedback on the copy feature
+
 
 //yt- shiftedper, Practice!!!
 
 //bleach
 //pups,r panorama; remaining h ph's (about 3 or so)
-//possible titles: writer's assistant, book viewer, author software, publishing software, writing assistant, novelist's assistant
+//potential titles: writer's assistant, book viewer, author software, publishing software, writing assistant, novelist's assistant
 
 //vote to k t
 
@@ -137,7 +136,7 @@
 
 //Optional features: MLA-ify, change manual inputting of path to browse boxes
 
-//java and c programs from command line, download necessary compilers, that little pink intro book which is perfect for teaching programming, ggbridge book, sexy times :3- call uhs
+
 //fix clicking page forward more than tot pages, negative page numbers on going back past page 1 :P
 //troubleshoot thrown exception
 //in viewing mode, editing should be disabled, scroll bar on the first page should be disabled
@@ -151,28 +150,15 @@
 
 
 
-//java and c programs from command line, download necessary compilers, that little pink intro book which is perfect for teaching programming, ggbridge book, sexy times :3- call uhs
 
 
 
 
-//DB teacher
-//current programs/night job/ceh course, mathematics/physics, B.Ed, h it online...one of these four had another "/"
-//tie up/finish up/finish off your loose ends (do at least the 1st, of the 3 + 1, at least/of course)
-//long path tool, first set of backups, photographs, second backup, pinups, sexy gup ah as soon as you enter:D
-
-//B Pride
-//tribal,>matyr
-
-//include a "save version[s]" (button) option --> current, versions
-//"deet bano" XDD
-//foc sig on front OR back cover
 
 
-//demo #1: loadFile, stats, flip pages, designate as chapter, jump to chapter
 
 //include writing quote of the day
-//click and drag to rearrange the chapters in the text
+
 //why does "next" need to be clicked twice if "back" has been pressed?
 //autoload(load musings)&save (save & quit button)
 //the insert box
@@ -192,54 +178,11 @@
 //words, total characters, paragraphs, pages, lines, onPage
 
 
-//fix R S
+
 
 //who's working on a more efficient battery for ren en?
 
 //zersys freelance (web developer), CEH certification & [completion], info sec job, boarding school teaching, back to ph grad school
-
-//why DOESN'T he have CEH certification? ie. why did he never bother?
-//a couple of freelance projects for him just to get zersys on my res & a letter of rec
-
-
-
-//virt recreation of victim's gui, log of order opened
-
-//once you're in: all outgoing/incoming packets (all info sent/recieved on the WWW), keylogging, directory listings, administrator priviliges (opening files and such), internet browsing history
-//anxiety buster: muffin + smoked paprika + regular (yellow) kraft singles
-//code, umineko
-//misamisa, taot, uts, dbt (if I' wy)
-
-
-//my own projects (ie. coding for myself instead of some explotative dumbass), or op a t c
-
-
-
-//Fandom Follower- anonomously discuss your fandom
-//select/create/add a new fandom group to the list/search
-//browse fanart, view fandom updates, add materials to your local board
-
-
-
-
-
-
-
-
-
-
-//Wilson, IT work exp on resu; afterwards, go to db and teach; what daddy said on the phone
-
-
-//website development/design, mobile app development, hacking
-//pc software development
-
-
-
-
-
-
-
 
 
 
@@ -265,7 +208,7 @@
 //mIL comics
 //----------------------
 
-//harnessing E's storms/lightning for power generation/tmtwereqs- need larger battery/more efficient method of storage
+//harnessing storms for power generation/tmtwereqs- need larger battery/more efficient method of storage
 //use OCI + G T
 //7 Lines:
 
@@ -317,22 +260,6 @@
 //login- loads master doc
 //create- creates master doc
 //both- on "load file" click, inserts text TO THE END of all the preloaded text in the window (ie. the master doc text up to this point)...it will designate the beginning of this new text file as a default chapter, until the user goes in and manually changes this. The viewing window will shift to the beginning of the new file's text/the end of all the text
-
-
-
-
-
-
-
-
-//leave it alone!!! (w/o a disturbances)
-//let it regen itself
-//even if it's not orig (like in so cal, which is mostly not orig), at least it will be A LOT better than what it is now!
-
-
-
-
-
 
 
 
@@ -390,8 +317,6 @@
 
 
 
-//morning rays (wipes out the hn'2)
-//3 places that have always flh: ir, DB, iacopm
 //instead of saving everything to the master document, you could have an array hold each chapter/loaded document
 
 //"previously opened docs" tracker
