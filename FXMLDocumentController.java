@@ -5,7 +5,7 @@
 //novelist's/writer's/author's personal organizer, two higher font sizes and one lower?
 //xtra edits: add "voice" to the menu bar, second column/box to filetracker, click and drag to rearrange chapters, 1, make "automatically save your session" bold, add an "are you sure you want to turn page viewing mode on?" yesnookcancel dialog box, export printable version-->ready for publishing!/export version to be published
 
-//Beyond Horizons/Obvious Solutions/Morrigan's Freeware
+//Beyond Horizons/Obvious Solutions/GP's Freeware
 //list of software: file too long (free trial/full version/free with ads?/FREE?); Authors Assistant (free trial/full verion/FREE?/Free with ads?), custom medical forms (full service/download a sample/download an example of a completed patient management software (the sample can be usedtested for 30 days/valid for 30 days))
 //be sure to index the website on google
 //create a secure payment portal (ASP.NET?)
