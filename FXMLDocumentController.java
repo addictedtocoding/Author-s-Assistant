@@ -3446,7 +3446,7 @@ Primary.selectRange(endPos, Primary.getCaretPosition());
                 }
             });
         
-          
+           
         //loginBox.toFront();
         /*boolean existingUser;
        String username, password, masterPath;
